@@ -37,3 +37,12 @@
 
 Uso so mediante **Cartão de Credito**
 
+# Myaihub
+https://myaihub.com.au/
+<img width="852" height="851" alt="image" src="https://github.com/user-attachments/assets/4af9dec0-035c-4f9b-829b-ea13537f0214" />
+<img width="856" height="349" alt="image" src="https://github.com/user-attachments/assets/5d35f2d5-4146-4524-8f8b-29e08a073a33" />
+
+
+# My Ai Hub
+https://www.myaihub.ge/
+
