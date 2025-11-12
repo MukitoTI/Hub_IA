@@ -13,6 +13,33 @@ Além desses diretórios, existem também plataformas integradas que funcionam c
  * **Zapier**: Embora seja uma ferramenta de automação, o Zapier funciona como um "hub de integração", conectando diversas ferramentas de IA entre si e a outros aplicativos para automatizar fluxos de trabalho.
 
 -------------------------------------------------------------------------------------------------------------
+## Brasil
+plataformas brasileiras que funcionam como hubs integrados de inteligência artificial, centralizando diversas ferramentas de IA líderes de mercado (como ChatGPT, Midjourney, DALL-E, Stable Diffusion) em uma única assinatura e interface. Elas se destacam por oferecer um ecossistema completo, com foco em empresas e na otimização de fluxos de trabalho.
+
+ * **Adapta** se posiciona como o maior ecossistema de IA generativa do Brasil. É uma plataforma "tudo-em-um" que reúne o que há de melhor em ferramentas de IA e as disponibiliza em um único lugar, juntamente com recursos educacionais.<br> 
+***Foco principal***: Ecossistema completo de IA, com ferramentas de geração de imagens, assistente de texto (chat), e recursos educacionais como cursos e newsletters.<br>
+***Diferenciais***: Oferece soluções alinhadas à cultura e idioma locais, além de planos específicos para empresas com gerenciamento de equipe. Permite gerar imagens com os melhores modelos disponíveis e otimizar tarefas com o "Adapta Flow".<br>
+***Público-alvo***: Profissionais, estudantes e empresas que buscam um conjunto abrangente de ferramentas de IA com suporte e treinamento em português. <br>
+
+ * **Tess AI**, da empresa Pareto, é uma plataforma robusta que agrega as IAs mais avançadas do mundo e foca em agentes de IA e automação para tarefas profissionais.<br> 
+***Foco principal***: Geração de imagens e vídeos (usando Midjourney, DALL-E 3, Stable Diffusion, etc.), criação de agentes de IA e automações.<br>
+***Diferenciais***: Permite que o usuário treine IAs específicas com documentos da própria empresa (PDFs, planilhas, sites), criando uma base de conhecimento personalizada. Oferece "agentes de IA" capazes de executar tarefas profissionais em várias etapas. Permite alternar entre diferentes modelos de linguagem (LLMs) dentro do mesmo chat, mantendo o contexto da conversa.<br>
+***Público-alvo***: Principalmente empresas e equipes que buscam implementar soluções de IA personalizadas e automatizadas em seus processos de marketing, vendas e operações.<br> 
+
+ * **Inner AI** também é uma plataforma que agrega vários modelos de IA em um só lugar, com foco em desbloquear o potencial criativo e a produtividade das empresas. <br>
+***Foco principal***: Criação de conteúdo para empresas, geração de imagens, e um assistente de IA centralizado para diversas tarefas.<br>
+***Diferenciais***: Oferece um ambiente personalizado (dashboard interativo) com insights sobre o uso da equipe, e a possibilidade de organizar conversas e projetos por objetivos ou departamentos. Busca ser uma solução completa de IA para negócios.<br>
+***Público-alvo***: Empresas, times de marketing e criadores de conteúdo que precisam de uma solução unificada para gerenciar a criação de conteúdo com IA em equipe.<br>
+
+### Mais Ferramentas Brasileiras de IA
+ * **Bode.ai**: Uma empresa brasileira focada em soluções de IA para negócios e marketing, com foco em personalização e recomendação de produtos.
+ * **NeuralMind**: Uma empresa de consultoria e desenvolvimento de soluções de IA personalizadas para grandes empresas no Brasil, atuando em áreas como processamento de linguagem natural e visão computacional.
+ * **ChatClass**: Focada em soluções educacionais, usa IA para ensinar inglês e outras matérias através de chatbots e outras tecnologias.
+ * **Stilingue**: Embora seja mais uma plataforma de monitoramento de redes sociais e análise de dados, utiliza muita IA para entender sentimentos e extrair insights do público brasileiro, e foi adquirida pela RD Station.
+As plataformas Adapta, Tess AI e Inner AI são as mais proeminentes no modelo de "hub de IAs generativas" 
+   
+
+-------------------------------------------------------------------------------------------------------------
 
 # Inteligência Artificial - (mais usada)
 ## Linguagem e Texto (Chatbots, Escrita e Resumo)
