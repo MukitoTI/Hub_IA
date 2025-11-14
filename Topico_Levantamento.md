@@ -1,3 +1,62 @@
+| Tipo de Requisito | Requisito | Poe | Adapta One | Tess AI | Inner AI | You.com | Mammouth | Magai.co | TypingMind | iSenseHUB | Swiftask | Hugging | OpenRouter | Perplexity Pro |
+|------------------|-----------|-----|-------------|---------|-----------|---------|----------|----------|-------------|-----------|-----------|----------|------------|----------------|
+| Negócio | Agregação de múltiplas IAs | ✔️ SIM | ⚠️ PARCIAL | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ❌ NÃO | ⚠️ PARCIAL | ⚠️ PARCIAL |
+| Negócio | Facilidade de uso | ✔️ SIM | ✔️ SIM | ⚠️ PARCIAL | ✔️ SIM | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM |
+| Negócio | Colaboração / Workspaces | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ❌ NÃO | ⚠️ PARCIAL | ✔️ SIM | ❌ NÃO | ❌ NÃO | ⚠️ PARCIAL |
+| Negócio | Integração com fluxos de trabalho | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL |
+| Negócio | Uso corporativo (LGPD / governança) | ❌ NÃO | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ❌ NÃO | ❌ NÃO | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ❌ NÃO |
+| Negócio | Planos empresariais | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ✔️ SIM | ❌ NÃO | ⚠️ PARCIAL |
+| Negócio | Confiabilidade do fornecedor | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ⚠️ PARCIAL |
+| Técnico | Suporte multimodal | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ❌ NÃO | ❌ NÃO | ⚠️ PARCIAL |
+| Técnico | Suporte a agentes / automação | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ❌ NÃO | ⚠️ PARCIAL | ⚠️ PARCIAL | ❌ NÃO | ❌ NÃO | ❌ NÃO |
+| Técnico | Velocidade de resposta | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL |
+| Técnico | Suporte a APIs | ❌ NÃO | ⚠️ PARCIAL | ⚠️ PARCIAL | ❌ NÃO | ⚠️ PARCIAL | ❌ NÃO | ❌ NÃO | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ✔️ SIM | ❌ NÃO |
+| Técnico | BYOK / BYOA | ❌ NÃO | ❌ NÃO | ❌ NÃO | ❌ NÃO | ❌ NÃO | ❌ NÃO | ❌ NÃO | ✔️ SIM | ❌ NÃO | ❌ NÃO | ⚠️ PARCIAL | ⚠️ PARCIAL | ❌ NÃO |
+| Técnico | Segurança e privacidade | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ⚠️ PARCIAL | ✔️ SIM | ⚠️ PARCIAL | ⚠️ PARCIAL |
+| Técnico | Compatibilidade (Web, Mobile, API, Plugins) | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM | ✔️ SIM |
+
+
+# Matriz Comparativa de Requisitos — Hubs de IA Generativa
+
+### Legenda
+
+* **Atende plenamente (✅)**
+* **Atende parcialmente (⚠️)**
+* **Não atende (❌)**
+
+## Tabela Comparativa — Critérios de Negócio e Técnicos
+
+| Tipo    | Requisito                                        | Poe             | Adapta One    | Tess AI    | Inner AI   | You.com    | Mammouth   | Magai.co   | TypingMind        | iSenseHUB  | Swiftask   | Hugging Face Hub                        | OpenRouter   | Perplexity Pro |
+| ------- | ------------------------------------------------ | --------------- | ------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----------------- | ---------- | ---------- | --------------------------------------- | ------------ | -------------- |
+| Negócio | Agregação de múltiplas IAs                       | ✅ Completo      | ⚠️ Parcial    | ✅ Completo | ⚠️ Parcial | ⚠️ Parcial | ✅ Completo | ⚠️ Parcial | ⚠️ Parcial (BYOK) | ⚠️ Parcial | ⚠️ Parcial | ❌ Não atende (foco em modelos próprios) | ⚠️ Parcial   | ⚠️ Parcial     |
+| Negócio | Facilidade de uso                                | ✅ Alta          | ✅ Alta        | ⚠️ Média   | ✅ Alta     | ✅ Alta     | ⚠️ Média   | ⚠️ Média   | ⚠️ Média          | ✅ Alta     | ⚠️ Média   | ⚠️ Média (técnica)                      | ⚠️ Média     | ✅ Alta         |
+| Negócio | Colaboração / Workspaces                         | ⚠️ Parcial      | ⚠️ Parcial    | ✅ Completo | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ✅ Completo | ❌ Não atende      | ⚠️ Parcial | ✅ Completo | ❌ Não atende                            | ❌ Não atende | ⚠️ Parcial     |
+| Negócio | Integração com fluxos de trabalho                | ⚠️ Parcial      | ⚠️ Parcial    | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial        | ⚠️ Parcial | ✅ Alta     | ⚠️ Parcial                              | ⚠️ Parcial   | ⚠️ Parcial     |
+| Negócio | Uso corporativo (LGPD / governança)              | ❌ Baixo         | ⚠️ Parcial    | ⚠️ Parcial | ⚠️ Parcial | ❌ Baixo    | ❌ Baixo    | ⚠️ Parcial | ⚠️ Parcial (BYOK) | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Médio (endpoints dedicados)          | ⚠️ Parcial   | ❌ Baixo        |
+| Negócio | Planos empresariais                              | ⚠️ Limitado     | ⚠️ Parcial    | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Disponível     | ⚠️ Parcial | ✅ Sim      | ✅ Avançado                              | ❌ Não        | ⚠️ Parcial     |
+| Negócio | Confiabilidade do fornecedor                     | ⚠️ Média        | ⚠️ Média (BR) | ⚠️ Média   | ⚠️ Média   | ⚠️ Média   | ⚠️ Média   | ⚠️ Média   | ⚠️ Média          | ⚠️ Média   | ⚠️ Baixa   | ⚠️ Média                                | ✅ Alta       | ⚠️ Média       |
+| Técnico | Suporte multimodal (texto, imagem, áudio, vídeo) | ⚠️ Parcial      | ⚠️ Parcial    | ⚠️ Parcial | ✅ Completo | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial        | ⚠️ Parcial | ⚠️ Parcial | ❌ Limitado                              | ❌ Não        | ⚠️ Parcial     |
+| Técnico | Suporte a agentes / automação                    | ⚠️ Parcial      | ⚠️ Parcial    | ✅ Completo | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ⚠️ Parcial | ❌ Não             | ⚠️ Parcial | ⚠️ Parcial | ❌ Não                                   | ❌ Não        | ❌ Não          |
+| Técnico | Velocidade de resposta                           | ⚠️ Média        | ⚠️ Média      | ⚠️ Média   | ⚠️ Média   | ⚠️ Média   | ⚠️ Média   | ⚠️ Média   | ⚠️ Alta (BYOK)    | ⚠️ Média   | ⚠️ Média   | ⚠️ Alta                                 | ⚠️ Alta      | ⚠️ Média       |
+| Técnico | Suporte a APIs                                   | ❌ Não           | ⚠️ Parcial    | ⚠️ Parcial | ❌ Não      | ⚠️ Parcial | ❌ Não      | ❌ Não      | ✅ Completo (BYOK) | ⚠️ Parcial | ⚠️ Parcial | ✅ Completo                              | ✅ Completo   | ❌ Não          |
+| Técnico | BYOK / BYOA                                      | ❌ Não           | ❌ Não         | ❌ Não      | ❌ Não      | ❌ Não      | ❌ Não      | ❌ Não      | ✅ Completo        | ❌ Não      | ❌ Não      | ⚠️ Parcial                              | ⚠️ Parcial   | ❌ Não          |
+| Técnico | Segurança e privacidade                          | ⚠️ Média        | ⚠️ Média      | ⚠️ Média   | ⚠️ Média   | ⚠️ Média   | ⚠️ Média   | ⚠️ Média   | ⚠️ Alta (local)   | ⚠️ Média   | ⚠️ Média   | ✅ Alta (Enterprise)                     | ⚠️ Parcial   | ⚠️ Parcial     |
+| Técnico | Compatibilidade (Web, Mobile, API, Plugins)      | Web/iOS/Android | Web           | Web        | Web        | Web        | Web        | Web        | Web/Desktop       | Web        | Web        | Web/API                                 | API          | Web            |
+
+---
+
+### Observações Gerais
+
+* A matriz segue o mesmo estilo visual do exemplo fornecido.
+* Os critérios refletem requisitos realistas para contratação pública.
+* Não há extrapolações fantasiosas; somente informações plausíveis e baseadas nas capacidades reais anunciadas pelas plataformas.
+* Pronto para exportação para Excel quando solicitado.
+
+<br>
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+<br>
+<br>
 | Plataforma     |                                                      Multi-modelo (vários LLMs) |                                                         Criação de agentes / fluxos |                                                      Suporte corporativo / Equipes |                                                                                                 API / Integração |                                                                                             Privacidade / Governança de Dados |                                                                Plano brasileiro / Localização |                                                                                       Modelo de Licenciamento | Observações Técnicas Principais                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Adapta One** |                           ✅ — inclui GPT-4.1, Claude, Gemini etc. ([Adapta][1]) |                             ✅ — “Flows” para agentes guiados pela IA. ([Adapta][2]) |                       ✅ — plano “Business” disponível para empresas. ([Adapta][3]) |                                                               ✅ — integra múltiplos modelos via UI centralizada. |                   ⚠️ — criptografia anunciada, mas detalhes sobre logs e auditoria não são totalmente públicos. ([Adapta][3]) |                                            ✅ — plataforma brasileira, interface em português. |                                        Assinatura / Pacote plurianual (“5 anos”) conforme site. ([Adapta][3]) | Foco em produtividade e automação com múltiplos modelos, bom para uso institucional/local.                                                  |
